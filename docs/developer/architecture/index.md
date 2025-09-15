@@ -1,15 +1,9 @@
-# Architecture Documentation
+# Overview
 
 This section contains comprehensive documentation about RedstonePanel's architecture, requirements, and design decisions.
 
-## Overview
-
-RedstonePanel is designed as a modern, scalable application following clean architecture principles.
-
 ## Contents
 
-- [Requirements](requirements.md) - Functional and non-functional requirements
-
-## Quick Links
-
-- [Getting Started with Development](../contributing.md)
+- [Architecture](developer/architecture/architecture.md) - Application architecture documentation
+- [Kernel](developer/architecture/kernel.md) - Core messaging architecture and communication patterns
+- [Requirements](developer/architecture/requirements.md) - Functional and non-functional requirements

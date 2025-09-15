@@ -2,12 +2,10 @@
 
 Welcome to the RedstonePanel Developer Documentation! This comprehensive guide provides everything you need to contribute to the project, understand the architecture, and work with the codebase.
 
-## Quick Navigation
+## Contents
 
-### 🚀 Getting Started
-- **[Contributing Guide](./contributing.md)** - How to contribute to RedstonePanel
-- **[Development Setup](./contributing.md#setting-up-development-environment)** - Set up your development environment
-- **[Code Standards](./contributing.md#code-standards)** - Coding standards and best practices
+- [Architecture](developer/architecture/index.md) - RedstonePanel architecture
+- [Contributing Guide](developer/contributing.md) - How to contribute to RedstonePanel
 
 ---
 
